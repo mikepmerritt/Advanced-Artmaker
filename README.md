@@ -1,4 +1,4 @@
-# Adavanced Artmaker
+# Advanced Artmaker
 
 Enjoy some wonderful abstract art made by blurring images, now with more quality of life features.
 
