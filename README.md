@@ -7,9 +7,10 @@ This is a work in progress, so it may not have all of the intended features impl
 ## Features
 
 - Classic blurry masterpieces
+- More customization options
 - Option to add your own files
 - Ability to enable auto-resizing of image for optimal blurring
-- GUI interface
+- User-friendly GUI
 
 ## About Artmaker
 
